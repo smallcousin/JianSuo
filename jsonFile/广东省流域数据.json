@@ -1,0 +1,1178 @@
+{
+  "data": [
+    {
+      "province": "广东省",
+      "city": "深圳市",
+      "valley": "珠江流域",
+      "staname": "深圳河口",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2023-03-02 00:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "惠州市",
+      "valley": "珠江流域",
+      "staname": "东江江口",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2023-03-02 00:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "清远市",
+      "valley": "珠江流域",
+      "staname": "七星岗",
+      "longitude": "113.0669",
+      "latitude": "23.6833",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "江门市",
+      "valley": "珠江流域",
+      "staname": "下东",
+      "longitude": "113.0501",
+      "latitude": "22.8009",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "梅州市",
+      "valley": "珠江流域",
+      "staname": "五丰渡口",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2021-11-01 08:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "惠州市",
+      "valley": "珠江流域",
+      "staname": "公庄河口（泰美）",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2021-11-04 16:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "惠州市",
+      "valley": "珠江流域",
+      "staname": "吉隆商贸城前",
+      "longitude": "114.926",
+      "latitude": "22.7969",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "湛江市",
+      "valley": "珠江流域",
+      "staname": "大山江",
+      "longitude": "110.7862",
+      "latitude": "21.4586",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2023-03-02 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "惠州市",
+      "valley": "珠江流域",
+      "staname": "博罗城下(新角)",
+      "longitude": "114.252552",
+      "latitude": "23.150949",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "阳江市",
+      "valley": "珠江流域",
+      "staname": "大泉",
+      "longitude": "111.6674",
+      "latitude": "21.7657",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "阳江市",
+      "valley": "珠江流域",
+      "staname": "埠场",
+      "longitude": "111.9383",
+      "latitude": "21.7951",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "肇庆市",
+      "valley": "珠江流域",
+      "staname": "封开城上",
+      "longitude": "111.4479",
+      "latitude": "23.4578",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-05 16:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "河源市",
+      "valley": "珠江流域",
+      "staname": "庙咀里",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2023-03-02 00:00:00",
+      "last_time": "2023-03-03 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "深圳市",
+      "valley": "珠江流域",
+      "staname": "共和村",
+      "longitude": "113.7827",
+      "latitude": "22.7526",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "东莞市",
+      "valley": "珠江流域",
+      "staname": "樟村（家乐福）",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2023-03-02 04:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "广州市",
+      "valley": "珠江流域",
+      "staname": "墩头基",
+      "longitude": "113.4986",
+      "latitude": "23.0475",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "东莞市",
+      "valley": "珠江流域",
+      "staname": "樟村(家乐福)",
+      "longitude": "113.7561",
+      "latitude": "23.0636",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2023-03-02 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "惠州市",
+      "valley": "珠江流域",
+      "staname": "横头街霞涌医院门口前",
+      "longitude": "114.6489",
+      "latitude": "22.7772",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2021-03-05 08:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "惠州市",
+      "valley": "珠江流域",
+      "staname": "三棵树",
+      "longitude": "114.555",
+      "latitude": "22.7453",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2021-02-08 12:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "河源市",
+      "valley": "珠江流域",
+      "staname": "庙咀里(定南水站)",
+      "longitude": "115.1908",
+      "latitude": "24.6969",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "揭阳市",
+      "valley": "珠江流域",
+      "staname": "东湖",
+      "longitude": "116.3547",
+      "latitude": "23.5278",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2021-03-06 12:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "汕尾市",
+      "valley": "珠江流域",
+      "staname": "东溪水闸",
+      "longitude": "115.5267",
+      "latitude": "22.8715",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "汕头市",
+      "valley": "珠江流域",
+      "staname": "外砂",
+      "longitude": "116.755",
+      "latitude": "23.45",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "湛江市",
+      "valley": "珠江流域",
+      "staname": "石碧",
+      "longitude": "110.8097",
+      "latitude": "21.5511",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "江门市",
+      "valley": "珠江流域",
+      "staname": "古劳",
+      "longitude": "112.922",
+      "latitude": "22.85",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "中山市",
+      "valley": "珠江流域",
+      "staname": "中山港码头",
+      "longitude": "113.5003",
+      "latitude": "22.5728",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "湛江市",
+      "valley": "珠江流域",
+      "staname": "赤坎水厂（塘口取水口）",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2023-03-14 20:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "清远市",
+      "valley": "珠江流域",
+      "staname": "北江石尾",
+      "longitude": "113.3982",
+      "latitude": "24.1467",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "汕尾市",
+      "valley": "珠江流域",
+      "staname": "乌坎",
+      "longitude": "115.6922",
+      "latitude": "22.9013",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "佛山市",
+      "valley": "珠江流域",
+      "staname": "乌洲",
+      "longitude": "113.2571",
+      "latitude": "22.8953",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "广州市",
+      "valley": "珠江流域",
+      "staname": "九龙潭",
+      "longitude": "113.9212",
+      "latitude": "23.4874",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "梅州市",
+      "valley": "珠江流域",
+      "staname": "新铺",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2021-11-01 08:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "惠州市",
+      "valley": "珠江流域",
+      "staname": "滨海十路与石化大道中交汇处",
+      "longitude": "114.6116",
+      "latitude": "22.7559",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2021-02-07 12:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "韶关市",
+      "valley": "珠江流域",
+      "staname": "十里亭",
+      "longitude": "112.23",
+      "latitude": "24.46",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "揭阳市",
+      "valley": "珠江流域",
+      "staname": "地都",
+      "longitude": "116.5244",
+      "latitude": "23.4419",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "肇庆市",
+      "valley": "珠江流域",
+      "staname": "梁村",
+      "longitude": "112.8022",
+      "latitude": "23.2054",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "汕尾市",
+      "valley": "珠江流域",
+      "staname": "海丰西闸",
+      "longitude": "115.3292",
+      "latitude": "22.9156",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "茂名市",
+      "valley": "珠江流域",
+      "staname": "塘口",
+      "longitude": "110.8492",
+      "latitude": "21.5253",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "江门市",
+      "valley": "珠江流域",
+      "staname": "牛湾",
+      "longitude": "112.8486",
+      "latitude": "22.4544",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "广州市",
+      "valley": "珠江流域",
+      "staname": "洪奇沥",
+      "longitude": "113.5822",
+      "latitude": "22.6164",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "汕头市",
+      "valley": "珠江流域",
+      "staname": "升平",
+      "longitude": "116.6589",
+      "latitude": "23.3511",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "湛江市",
+      "valley": "珠江流域",
+      "staname": "渠首",
+      "longitude": "110.3126",
+      "latitude": "21.7088",
+      "first_time": "2020-04-30 16:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "湛江市",
+      "valley": "珠江流域",
+      "staname": "南渡河桥",
+      "longitude": "110.0495",
+      "latitude": "20.8865",
+      "first_time": "2020-04-29 08:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "广州市",
+      "valley": "珠江流域",
+      "staname": "流溪河山庄",
+      "longitude": "113.5532",
+      "latitude": "23.5151",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "深圳市",
+      "valley": "珠江流域",
+      "staname": "深圳河口(老)",
+      "longitude": "114.0374",
+      "latitude": "22.5074",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2023-03-02 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "韶关市",
+      "valley": "珠江流域",
+      "staname": "城口水站",
+      "longitude": "0",
+      "latitude": "0",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2023-06-26 08:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "汕头市",
+      "valley": "珠江流域",
+      "staname": "海门湾桥闸",
+      "longitude": "116.6169",
+      "latitude": "23.2225",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "珠海市",
+      "valley": "珠江流域",
+      "staname": "尖峰大桥",
+      "longitude": "113.3177",
+      "latitude": "22.188",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "惠州市",
+      "valley": "珠江流域",
+      "staname": "南边灶桥",
+      "longitude": "114.5554",
+      "latitude": "22.745",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2020-11-13 08:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "云浮市",
+      "valley": "珠江流域",
+      "staname": "六都水厂上游",
+      "longitude": "111.9743",
+      "latitude": "23.0958",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "潮州市",
+      "valley": "珠江流域",
+      "staname": "凤江桥",
+      "longitude": "116.9895",
+      "latitude": "23.6891",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "梅州市",
+      "valley": "珠江流域",
+      "staname": "大麻",
+      "longitude": "116.5425",
+      "latitude": "24.3559",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "广州市",
+      "valley": "珠江流域",
+      "staname": "大龙涌口",
+      "longitude": "113.4314",
+      "latitude": "22.9153",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "珠海市",
+      "valley": "珠江流域",
+      "staname": "珠海大桥",
+      "longitude": "113.4142",
+      "latitude": "22.2041",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "东莞市",
+      "valley": "珠江流域",
+      "staname": "石龙南河",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2021-08-18 12:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "深圳市",
+      "valley": "珠江流域",
+      "staname": "小漠桥",
+      "longitude": "115.0965",
+      "latitude": "23.3325",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "阳江市",
+      "valley": "珠江流域",
+      "staname": "尖山",
+      "longitude": "112.0267",
+      "latitude": "21.8392",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "梅州市",
+      "valley": "珠江流域",
+      "staname": "青溪",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2023-03-02 00:00:00",
+      "last_time": "2023-03-03 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "汕头市",
+      "valley": "珠江流域",
+      "staname": "大衙",
+      "longitude": "116.7053",
+      "latitude": "23.4605",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "广州市",
+      "valley": "珠江流域",
+      "staname": "官坦",
+      "longitude": "113.48",
+      "latitude": "22.8978",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "珠海市",
+      "valley": "珠江流域",
+      "staname": "石角咀水闸",
+      "longitude": "113.528",
+      "latitude": "22.2237",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "广州市",
+      "valley": "珠江流域",
+      "staname": "大墩",
+      "longitude": "113.6842",
+      "latitude": "23.1261",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "珠海市",
+      "valley": "珠江流域",
+      "staname": "布洲",
+      "longitude": "113.2687",
+      "latitude": "22.3829",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "茂名市",
+      "valley": "珠江流域",
+      "staname": "米急渡",
+      "longitude": "110.7947",
+      "latitude": "21.9136",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "惠州市",
+      "valley": "珠江流域",
+      "staname": "紫溪",
+      "longitude": "114.486522",
+      "latitude": "23.016872",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "湛江市",
+      "valley": "珠江流域",
+      "staname": "山角",
+      "longitude": "110.292",
+      "latitude": "21.9144",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "茂名市",
+      "valley": "珠江流域",
+      "staname": "良德水库",
+      "longitude": "110.9832",
+      "latitude": "22.1436",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "广州市",
+      "valley": "珠江流域",
+      "staname": "鸦岗",
+      "longitude": "113.11",
+      "latitude": "23.78",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "阳江市",
+      "valley": "珠江流域",
+      "staname": "寿长",
+      "longitude": "112.1996",
+      "latitude": "21.8323",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "江门市",
+      "valley": "珠江流域",
+      "staname": "苍山渡口",
+      "longitude": "113.082",
+      "latitude": "22.2221",
+      "first_time": "2020-04-30 00:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "广州市",
+      "valley": "珠江流域",
+      "staname": "莲花山",
+      "longitude": "113.5114",
+      "latitude": "23.0083",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "汕头市",
+      "valley": "珠江流域",
+      "staname": "莲阳桥闸",
+      "longitude": "116.7664",
+      "latitude": "23.4883",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "阳江市",
+      "valley": "珠江流域",
+      "staname": "江城",
+      "longitude": "111.9507",
+      "latitude": "21.8278",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "茂名市",
+      "valley": "珠江流域",
+      "staname": "江口门",
+      "longitude": "110.663",
+      "latitude": "21.5355",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "湛江市",
+      "valley": "珠江流域",
+      "staname": "营仔",
+      "longitude": "110.0007",
+      "latitude": "21.4833",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "湛江市",
+      "valley": "珠江流域",
+      "staname": "排里",
+      "longitude": "110.0656",
+      "latitude": "21.503",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "广州市",
+      "valley": "珠江流域",
+      "staname": "蕉门",
+      "longitude": "113.6477",
+      "latitude": "22.6233",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "惠州市",
+      "valley": "珠江流域",
+      "staname": "虎爪断桥",
+      "longitude": "114.5244",
+      "latitude": "22.7367",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "河源市",
+      "valley": "珠江流域",
+      "staname": "新丰江水库",
+      "longitude": "114.649389",
+      "latitude": "23.730377",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2022-06-13 12:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "东莞市",
+      "valley": "珠江流域",
+      "staname": "沙田泗盛",
+      "longitude": "113.6043",
+      "latitude": "22.9215",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "中山市",
+      "valley": "珠江流域",
+      "staname": "横栏",
+      "longitude": "0",
+      "latitude": "0",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2023-06-26 08:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "梅州市",
+      "valley": "珠江流域",
+      "staname": "西阳电站",
+      "longitude": "116.1812",
+      "latitude": "24.2792",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "惠州市",
+      "valley": "珠江流域",
+      "staname": "沙河河口(里波水）",
+      "longitude": "113.8902",
+      "latitude": "23.1199",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "湛江市",
+      "valley": "珠江流域",
+      "staname": "赤坎水厂(塘口取水口)",
+      "longitude": "110.3061",
+      "latitude": "21.3006",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2023-02-24 16:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "广州市",
+      "valley": "珠江流域",
+      "staname": "增江口",
+      "longitude": "113.7553",
+      "latitude": "23.1422",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "肇庆市",
+      "valley": "珠江流域",
+      "staname": "永安",
+      "longitude": "112.6665",
+      "latitude": "23.1752",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "惠州市",
+      "valley": "珠江流域",
+      "staname": "江口",
+      "longitude": "114.633017",
+      "latitude": "23.419393",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2023-03-02 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "珠海市",
+      "valley": "珠江流域",
+      "staname": "鸡啼门大桥",
+      "longitude": "113.2608",
+      "latitude": "22.082",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "湛江市",
+      "valley": "珠江流域",
+      "staname": "黄竹尾水闸（大山江）",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2023-03-02 04:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "肇庆市",
+      "valley": "珠江流域",
+      "staname": "白沙街",
+      "longitude": "111.8044",
+      "latitude": "23.806",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "佛山市",
+      "valley": "珠江流域",
+      "staname": "平洲",
+      "longitude": "113.2098",
+      "latitude": "23.0347",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "清远市",
+      "valley": "珠江流域",
+      "staname": "石角",
+      "longitude": "112.9032",
+      "latitude": "23.4931",
+      "first_time": "2020-04-29 16:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "茂名市",
+      "valley": "珠江流域",
+      "staname": "石骨水库",
+      "longitude": "111.0197",
+      "latitude": "22.0397",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-05 20:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "清远市",
+      "valley": "珠江流域",
+      "staname": "连江西牛",
+      "longitude": "113.1103",
+      "latitude": "24.1873",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "韶关市",
+      "valley": "珠江流域",
+      "staname": "长坝",
+      "longitude": "113.6988",
+      "latitude": "24.8881",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "梅州市",
+      "valley": "珠江流域",
+      "staname": "青溪(大浦青溪)",
+      "longitude": "116.5965",
+      "latitude": "24.6456",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "韶关市",
+      "valley": "珠江流域",
+      "staname": "高桥",
+      "longitude": "113.5778",
+      "latitude": "24.5108",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "惠州市",
+      "valley": "珠江流域",
+      "staname": "马安大桥下",
+      "longitude": "114.511615",
+      "latitude": "23.042584",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "韶关市",
+      "valley": "珠江流域",
+      "staname": "三溪桥(乐昌三溪河)",
+      "longitude": "112.8654",
+      "latitude": "25.2908",
+      "first_time": "2020-04-26 12:00:00",
+      "last_time": "2024-03-04 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "东莞市",
+      "valley": "珠江流域",
+      "staname": "旗岭",
+      "longitude": "114.0624",
+      "latitude": "22.9443",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "中山市",
+      "valley": "珠江流域",
+      "staname": "广东中山横栏",
+      "longitude": "113.226111111",
+      "latitude": "22.5261111111",
+      "first_time": "2014-04-01 20:00:00",
+      "last_time": "2019-03-15 08:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "揭阳市",
+      "valley": "珠江流域",
+      "staname": "龟山塔",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2021-11-01 00:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "湛江市",
+      "valley": "珠江流域",
+      "staname": "黄坡",
+      "longitude": "110.6273",
+      "latitude": "21.3533",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "肇庆市",
+      "valley": "珠江流域",
+      "staname": "黄岗",
+      "longitude": "112.5269",
+      "latitude": "23.0607",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "潮州市",
+      "valley": "珠江流域",
+      "staname": "赤凤",
+      "longitude": "116.532",
+      "latitude": "23.8239",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": null,
+      "valley": "珠江流域",
+      "staname": "广东广州长洲",
+      "longitude": "113.406944444",
+      "latitude": "23.0402777778",
+      "first_time": "2014-04-01 20:00:00",
+      "last_time": "2018-09-21 12:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "云浮市",
+      "valley": "珠江流域",
+      "staname": "都骑",
+      "longitude": "112.1419",
+      "latitude": "23.0812",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "汕尾市",
+      "valley": "珠江流域",
+      "staname": "陆丰半湾水闸",
+      "longitude": "115.619",
+      "latitude": "22.9562",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "揭阳市",
+      "valley": "珠江流域",
+      "staname": "隆溪大道桥",
+      "longitude": "116.1853",
+      "latitude": "22.9868",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "汕头市",
+      "valley": "珠江流域",
+      "staname": "隆都",
+      "longitude": "116.7165",
+      "latitude": "23.5581",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "河源市",
+      "valley": "珠江流域",
+      "staname": "龙川城铁路桥",
+      "longitude": "115.2543",
+      "latitude": "24.1249",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "清远市",
+      "valley": "珠江流域",
+      "staname": "广东清远七星岗",
+      "longitude": "113.066944444",
+      "latitude": "23.6836111111",
+      "first_time": "2014-04-01 20:00:00",
+      "last_time": "2020-05-25 08:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "韶关市",
+      "valley": "珠江流域",
+      "staname": "孔江水库入库口",
+      "longitude": "0",
+      "latitude": "0",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2023-06-26 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "云浮市",
+      "valley": "珠江流域",
+      "staname": "古封",
+      "longitude": "111.5502",
+      "latitude": "23.2854",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-03-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "惠州市",
+      "valley": "珠江流域",
+      "staname": "惠州汝湖",
+      "longitude": "114.473616",
+      "latitude": "23.186746",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "河源市",
+      "valley": "珠江流域",
+      "staname": "龙川寻邬",
+      "longitude": "115.51552",
+      "latitude": "24.633053",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2023-06-06 04:00:00"
+    },
+    {
+      "province": "广东省",
+      "city": "揭阳市",
+      "valley": "珠江流域",
+      "staname": "龙石",
+      "longitude": "116.3858",
+      "latitude": "23.5486",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-03-06 00:00:00"
+    }
+  ],
+  "errCode": 0,
+  "requestId": "230D2266-69E4-42EA-812D-FEBAFB910312",
+  "errMsg": "success",
+  "apiLog": null
+}
