@@ -1,0 +1,1238 @@
+{
+  "data": [
+    {
+      "province": "浙江省",
+      "city": "嘉兴市",
+      "valley": "太湖流域",
+      "staname": "浙江嘉兴王江泾",
+      "longitude": "120.708611111",
+      "latitude": "30.8919444444",
+      "first_time": "2014-04-01 20:00:00",
+      "last_time": "2020-03-16 08:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "台州市",
+      "valley": "浙闽片河流",
+      "staname": "永宁江口",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2023-03-02 04:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "嘉兴市",
+      "valley": "太湖流域",
+      "staname": "浙江嘉兴斜路港",
+      "longitude": "120.708611111",
+      "latitude": "30.8919444444",
+      "first_time": "2014-04-01 20:00:00",
+      "last_time": "2019-03-15 08:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "衢州市",
+      "valley": "浙闽片河流",
+      "staname": "下界首",
+      "longitude": "118.393074",
+      "latitude": "28.986465",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "杭州市",
+      "valley": "浙闽片河流",
+      "staname": "千岛湖大坝前",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2023-03-02 04:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "金华市",
+      "valley": "浙闽片河流",
+      "staname": "上仙屋",
+      "longitude": "120.082234",
+      "latitude": "29.533114",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 00:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "衢州市",
+      "valley": "浙闽片河流",
+      "staname": "下童",
+      "longitude": "119.312497",
+      "latitude": "29.086972",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "嘉兴市",
+      "valley": "太湖流域",
+      "staname": "卫八路桥（嘉兴金桥）（撤销）",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2021-08-02 16:00:00",
+      "last_time": "2021-08-02 16:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "衢州市",
+      "valley": "浙闽片河流",
+      "staname": "双塔底",
+      "longitude": "118.665086",
+      "latitude": "28.766211",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "嘉兴市",
+      "valley": "太湖流域",
+      "staname": "卫八路桥（嘉兴金桥）",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2021-08-18 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "杭州市",
+      "valley": "浙闽片河流",
+      "staname": "大坝前",
+      "longitude": "119.188",
+      "latitude": "29.509",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2023-03-02 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "宁波市",
+      "valley": "浙闽片河流",
+      "staname": "四灶浦闸",
+      "longitude": "121.3614",
+      "latitude": "30.3427",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "宁波市",
+      "valley": "浙闽片河流",
+      "staname": "大嵩",
+      "longitude": "121.7798",
+      "latitude": "29.7124",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 00:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "嘉兴市",
+      "valley": "太湖流域",
+      "staname": "朱枫公路桥（清凉大桥）",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2023-03-02 00:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "丽水市",
+      "valley": "浙闽片河流",
+      "staname": "松阳二中",
+      "longitude": "119.3879",
+      "latitude": "28.5308",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "嘉兴市",
+      "valley": "太湖流域",
+      "staname": "小新村",
+      "longitude": "121.1199",
+      "latitude": "30.7775",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "杭州市",
+      "valley": "浙闽片河流",
+      "staname": "洋溪渡",
+      "longitude": "119.3046",
+      "latitude": "29.4921",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "丽水市",
+      "valley": "浙闽片河流",
+      "staname": "堰后",
+      "longitude": "119.712203",
+      "latitude": "28.314313",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "衢州市",
+      "valley": "浙闽片河流",
+      "staname": "东迹渡",
+      "longitude": "118.942664",
+      "latitude": "28.944657",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 00:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "嘉兴市",
+      "valley": "太湖流域",
+      "staname": "枫南大桥",
+      "longitude": "120.0003",
+      "latitude": "30.88",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "台州市",
+      "valley": "浙闽片河流",
+      "staname": "柏枝岙",
+      "longitude": "120.9326",
+      "latitude": "28.8862",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "金华市",
+      "valley": "浙闽片河流",
+      "staname": "洪坞桥",
+      "longitude": "119.4603",
+      "latitude": "29.1946",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-13 08:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "金华市",
+      "valley": "浙闽片河流",
+      "staname": "塔下洲",
+      "longitude": "120.06532",
+      "latitude": "29.283421",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "宁波市",
+      "valley": "浙闽片河流",
+      "staname": "浮礁渡",
+      "longitude": "121.8235",
+      "latitude": "29.2331",
+      "first_time": "2020-04-30 11:27:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "衢州市",
+      "valley": "浙闽片河流",
+      "staname": "双港口",
+      "longitude": "118.861611",
+      "latitude": "28.946245",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 00:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "丽水市",
+      "valley": "浙闽片河流",
+      "staname": "外舍",
+      "longitude": "119.6513",
+      "latitude": "28.0353",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "金华市",
+      "valley": "浙闽片河流",
+      "staname": "章店",
+      "longitude": "120.003445",
+      "latitude": "28.883506",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "宁波市",
+      "valley": "浙闽片河流",
+      "staname": "北湖中心",
+      "longitude": "121.6782",
+      "latitude": "29.7804",
+      "first_time": "2020-04-28 12:00:00",
+      "last_time": "2024-04-14 00:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "金华市",
+      "valley": "浙闽片河流",
+      "staname": "义东桥",
+      "longitude": "120.1846",
+      "latitude": "29.3077",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "嘉兴市",
+      "valley": "太湖流域",
+      "staname": "乌镇北",
+      "longitude": "120.5233",
+      "latitude": "30.7864",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 00:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "丽水市",
+      "valley": "浙闽片河流",
+      "staname": "石溪（石门洞）",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2021-06-02 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "嘉兴市",
+      "valley": "太湖流域",
+      "staname": "湘家荡",
+      "longitude": "120.8043",
+      "latitude": "30.8019",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "金华市",
+      "valley": "浙闽片河流",
+      "staname": "台口",
+      "longitude": "119.4042",
+      "latitude": "29.636",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "金华市",
+      "valley": "浙闽片河流",
+      "staname": "南江桥",
+      "longitude": "120.061216",
+      "latitude": "29.237717",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "湖州市",
+      "valley": "太湖流域",
+      "staname": "浙江湖州新塘港",
+      "longitude": "120.838888889",
+      "latitude": "30.8388888889",
+      "first_time": "2014-04-01 20:00:00",
+      "last_time": "2020-05-25 12:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "杭州市",
+      "valley": "浙闽片河流",
+      "staname": "桐君山",
+      "longitude": "119.682",
+      "latitude": "29.813",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "杭州市",
+      "valley": "浙闽片河流",
+      "staname": "桐庐",
+      "longitude": "119.653",
+      "latitude": "29.757",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "宁波市",
+      "valley": "浙闽片河流",
+      "staname": "梁桥",
+      "longitude": "121.3775",
+      "latitude": "29.78",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "杭州市",
+      "valley": "太湖流域",
+      "staname": "五杭运河大桥",
+      "longitude": "120.2589",
+      "latitude": "30.5004",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "绍兴市",
+      "valley": "浙闽片河流",
+      "staname": "湄池",
+      "longitude": "120.587387",
+      "latitude": "29.968956",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "台州市",
+      "valley": "浙闽片河流",
+      "staname": "温峤",
+      "longitude": "121.2539",
+      "latitude": "28.3539",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "湖州市",
+      "valley": "太湖流域",
+      "staname": "城南翻水站",
+      "longitude": "120.0733",
+      "latitude": "30.5402",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "丽水市",
+      "valley": "浙闽片河流",
+      "staname": "均溪",
+      "longitude": "119.7112",
+      "latitude": "28.2799",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "湖州市",
+      "valley": "太湖流域",
+      "staname": "塘浦",
+      "longitude": "119.6054",
+      "latitude": "30.6447",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "宁波市",
+      "valley": "浙闽片河流",
+      "staname": "溪口",
+      "longitude": "121.2688",
+      "latitude": "29.6805",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "杭州市",
+      "valley": "浙闽片河流",
+      "staname": "浦阳江出口",
+      "longitude": "120.172",
+      "latitude": "30.098",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "绍兴市",
+      "valley": "浙闽片河流",
+      "staname": "王家泾",
+      "longitude": "120.78306",
+      "latitude": "30.008502",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "嘉兴市",
+      "valley": "太湖流域",
+      "staname": "王江泾",
+      "longitude": "120.7101",
+      "latitude": "30.8858",
+      "first_time": "2020-03-16 08:00:00",
+      "last_time": "2024-04-14 00:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "宁波市",
+      "valley": "浙闽片河流",
+      "staname": "浦口闸",
+      "longitude": "121.2273",
+      "latitude": "30.0243",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2021-06-02 08:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "嘉兴市",
+      "valley": null,
+      "staname": "漕廊公路桥",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2021-04-24 04:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "杭州市",
+      "valley": "浙闽片河流",
+      "staname": "小金山",
+      "longitude": "118.9422",
+      "latitude": "29.6184",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "台州市",
+      "valley": "浙闽片河流",
+      "staname": "坝口",
+      "longitude": "121.0616",
+      "latitude": "28.6095",
+      "first_time": "2020-04-30 04:00:00",
+      "last_time": "2023-02-28 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "嘉兴市",
+      "valley": "太湖流域",
+      "staname": "南台头闸一号桥",
+      "longitude": "120.947",
+      "latitude": "30.5044",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 00:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "丽水市",
+      "valley": "浙闽片河流",
+      "staname": "石门洞",
+      "longitude": "120.1127",
+      "latitude": "28.278",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2021-06-02 08:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "湖州市",
+      "valley": "太湖流域",
+      "staname": "南浔",
+      "longitude": "120.4282",
+      "latitude": "30.887",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "嘉兴市",
+      "valley": "太湖流域",
+      "staname": "尤甪村",
+      "longitude": "120.8067",
+      "latitude": "30.6286",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "丽水市",
+      "valley": null,
+      "staname": "小溪口",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2021-01-26 16:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "温州市",
+      "valley": "浙闽片河流",
+      "staname": "大荆",
+      "longitude": "120.1669",
+      "latitude": "28.3893",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "金华市",
+      "valley": "浙闽片河流",
+      "staname": "将军岩",
+      "longitude": "119.5222",
+      "latitude": "29.3632",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "杭州市",
+      "valley": "太湖流域",
+      "staname": "奉口",
+      "longitude": "120.064",
+      "latitude": "30.441",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "嘉兴市",
+      "valley": "太湖流域",
+      "staname": "红旗塘大坝",
+      "longitude": "120.9745",
+      "latitude": "30.9508",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "湖州市",
+      "valley": "太湖流域",
+      "staname": "小梅口",
+      "longitude": "120.1036",
+      "latitude": "30.9485",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "衢州市",
+      "valley": "浙闽片河流",
+      "staname": "富足山",
+      "longitude": "118.561465",
+      "latitude": "28.903234",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "绍兴市",
+      "valley": "浙闽片河流",
+      "staname": "屠家埠",
+      "longitude": "120.832128",
+      "latitude": "29.656419",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-07 00:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "衢州市",
+      "valley": "长江流域",
+      "staname": "苏庄（撤销）",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2021-08-02 08:00:00",
+      "last_time": "2021-08-02 08:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "湖州市",
+      "valley": "太湖流域",
+      "staname": "荆湾",
+      "longitude": "119.7784",
+      "latitude": "30.8283",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "嘉兴市",
+      "valley": "太湖流域",
+      "staname": "上塘河排涝闸",
+      "longitude": "120.5322",
+      "latitude": "30.4047",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 00:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "台州市",
+      "valley": "浙闽片河流",
+      "staname": "江口",
+      "longitude": "121.327",
+      "latitude": "28.6903",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2023-03-02 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "金华市",
+      "valley": "浙闽片河流",
+      "staname": "东关桥",
+      "longitude": "119.6785",
+      "latitude": "29.1101",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "舟山市",
+      "valley": "浙闽片河流",
+      "staname": "临城",
+      "longitude": "122.208943",
+      "latitude": "29.990681",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "金华市",
+      "valley": "浙闽片河流",
+      "staname": "横山",
+      "longitude": "119.470873",
+      "latitude": "29.200406",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "丽水市",
+      "valley": "浙闽片河流",
+      "staname": "临江",
+      "longitude": "119.1535",
+      "latitude": "28.0868",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "杭州市",
+      "valley": "太湖流域",
+      "staname": "汪家埠",
+      "longitude": "119.8719",
+      "latitude": "30.263",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "绍兴市",
+      "valley": "浙闽片河流",
+      "staname": "葛山头",
+      "longitude": "120.625885",
+      "latitude": "29.964228",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "温州市",
+      "valley": "浙闽片河流",
+      "staname": "蒲岐",
+      "longitude": "121.0486",
+      "latitude": "28.1761",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "丽水市",
+      "valley": "浙闽片河流",
+      "staname": "水东桥下",
+      "longitude": "119.954613",
+      "latitude": "28.448733",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2021-01-09 12:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "嘉兴市",
+      "valley": "太湖流域",
+      "staname": "斜路港",
+      "longitude": "30.9222",
+      "latitude": "120.7116",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2023-06-26 08:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "温州市",
+      "valley": "浙闽片河流",
+      "staname": "江口渡",
+      "longitude": "120.6006",
+      "latitude": "27.5945",
+      "first_time": "2020-04-25 16:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "绍兴市",
+      "valley": "浙闽片河流",
+      "staname": "汤曹汇合口",
+      "longitude": "120.836162",
+      "latitude": "29.904404",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "温州市",
+      "valley": "浙闽片河流",
+      "staname": "沙头",
+      "longitude": "121.7477",
+      "latitude": "28.2069",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "嘉兴市",
+      "valley": "太湖流域",
+      "staname": "漕廊公路桥（撤销）",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2021-08-01 12:00:00",
+      "last_time": "2021-08-01 12:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "宁波市",
+      "valley": "浙闽片河流",
+      "staname": "清林渡",
+      "longitude": "121.3814",
+      "latitude": "29.9555",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "温州市",
+      "valley": "浙闽片河流",
+      "staname": "清水埠",
+      "longitude": "120.6959",
+      "latitude": "28.0579",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "嘉兴市",
+      "valley": "太湖流域",
+      "staname": "池家浜水文站",
+      "longitude": "120.9887",
+      "latitude": "30.9822",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-13 12:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "金华市",
+      "valley": "浙闽片河流",
+      "staname": "费垅",
+      "longitude": "119.494534",
+      "latitude": "29.202249",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "湖州市",
+      "valley": "太湖流域",
+      "staname": "汤溇",
+      "longitude": "120.3387",
+      "latitude": "30.9396",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "衢州市",
+      "valley": "浙闽片河流",
+      "staname": "浮石渡",
+      "longitude": "118.89335",
+      "latitude": "28.982812",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "温州市",
+      "valley": "浙闽片河流",
+      "staname": "赵山渡",
+      "longitude": "120.2674",
+      "latitude": "29.7888",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "湖州市",
+      "valley": "太湖流域",
+      "staname": "城西大桥",
+      "longitude": "120.0726",
+      "latitude": "30.8654",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "台州市",
+      "valley": "浙闽片河流",
+      "staname": "里石门水库",
+      "longitude": "120.7282",
+      "latitude": "29.0657",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "宁波市",
+      "valley": "浙闽片河流",
+      "staname": "菁江渡（浦口闸）",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2021-06-02 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "湖州市",
+      "valley": "太湖流域",
+      "staname": "杨家浦",
+      "longitude": "120.0078",
+      "latitude": "31.0003",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "宁波市",
+      "valley": "浙闽片河流",
+      "staname": "水车",
+      "longitude": "121.454",
+      "latitude": "29.256",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 00:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "台州市",
+      "valley": "浙闽片河流",
+      "staname": "沙段",
+      "longitude": "121.0649",
+      "latitude": "28.9513",
+      "first_time": "2020-04-28 20:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "丽水市",
+      "valley": "浙闽片河流",
+      "staname": "沙湾上",
+      "longitude": "119.4581",
+      "latitude": "27.8547",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "宁波市",
+      "valley": "浙闽片河流",
+      "staname": "长汀",
+      "longitude": "121.4081",
+      "latitude": "29.6333",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "杭州市",
+      "valley": "浙闽片河流",
+      "staname": "闸口",
+      "longitude": "120.108",
+      "latitude": "30.172",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": null,
+      "valley": "东南诸河",
+      "staname": "浙江杭州鸠坑口",
+      "longitude": "118.858888889",
+      "latitude": "29.8588888889",
+      "first_time": "2014-04-01 20:00:00",
+      "last_time": "2020-03-10 12:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "嘉兴市",
+      "valley": "太湖流域",
+      "staname": "清凉大桥（撤销）",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2021-08-02 12:00:00",
+      "last_time": "2021-08-02 12:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "嘉兴市",
+      "valley": "太湖流域",
+      "staname": "盐官排涝枢纽",
+      "longitude": "120.549",
+      "latitude": "30.4028",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "台州市",
+      "valley": "浙闽片河流",
+      "staname": "长潭水库坝口",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2023-02-28 04:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "湖州市",
+      "valley": "太湖流域",
+      "staname": "新塘",
+      "longitude": "119.9731",
+      "latitude": "31.0238",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "湖州市",
+      "valley": "太湖流域",
+      "staname": "新港口(新塘港)",
+      "longitude": "120.1101",
+      "latitude": "30.9117",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "台州市",
+      "valley": "浙闽片河流",
+      "staname": "老鼠屿",
+      "longitude": "121.48",
+      "latitude": "28.69",
+      "first_time": "2020-07-26 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "台州市",
+      "valley": "浙闽片河流",
+      "staname": "金清新闸",
+      "longitude": "121.6066",
+      "latitude": "28.5015",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "湖州市",
+      "valley": "太湖流域",
+      "staname": "铁路桥",
+      "longitude": "120.0145",
+      "latitude": "30.8806",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "衢州市",
+      "valley": "浙闽片河流",
+      "staname": "铜山源水库",
+      "longitude": "118.955819",
+      "latitude": "29.138757",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "嘉兴市",
+      "valley": "太湖流域",
+      "staname": "长山闸一号桥",
+      "longitude": "120.8838",
+      "latitude": "30.4",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 00:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "杭州市",
+      "valley": "太湖流域",
+      "staname": "顾家桥",
+      "longitude": "120.2084",
+      "latitude": "30.2819",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "丽水市",
+      "valley": "浙闽片河流",
+      "staname": "风化",
+      "longitude": "119.9566",
+      "latitude": "28.3993",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "嘉兴市",
+      "valley": "太湖流域",
+      "staname": "青阳汇",
+      "longitude": "120.0986",
+      "latitude": "30.8194",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "杭州市",
+      "valley": "浙闽片河流",
+      "staname": "三潭岛",
+      "longitude": "118.9715",
+      "latitude": "29.5383",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "绍兴市",
+      "valley": "浙闽片河流",
+      "staname": "曹娥江大闸闸前",
+      "longitude": "120.739722",
+      "latitude": "30.226129",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-13 12:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "湖州市",
+      "valley": "太湖流域",
+      "staname": "大钱",
+      "longitude": "120.1909",
+      "latitude": "30.93",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "杭州市",
+      "valley": "浙闽片河流",
+      "staname": "街口(鸠坑口)",
+      "longitude": "118.7268",
+      "latitude": "29.7252",
+      "first_time": "2020-03-10 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "温州市",
+      "valley": "浙闽片河流",
+      "staname": "第三农业站",
+      "longitude": "120.6006",
+      "latitude": "27.6983",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "衢州市",
+      "valley": "浙闽片河流",
+      "staname": "郑家",
+      "longitude": "119.188831",
+      "latitude": "29.031029",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "绍兴市",
+      "valley": "浙闽片河流",
+      "staname": "长诏水库出口",
+      "longitude": "120.981552",
+      "latitude": "29.449055",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "嘉兴市",
+      "valley": null,
+      "staname": "清凉大桥",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2021-04-24 04:00:00",
+      "last_time": "2023-03-02 00:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "衢州市",
+      "valley": null,
+      "staname": "苏庄",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2021-04-24 04:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "温州市",
+      "valley": "浙闽片河流",
+      "staname": "龙湾",
+      "longitude": "120.845",
+      "latitude": "27.9745",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "温州市",
+      "valley": "浙闽片河流",
+      "staname": "小旦",
+      "longitude": "120.416",
+      "latitude": "28.1597",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "浙江省",
+      "city": "湖州市",
+      "valley": "太湖流域",
+      "staname": "合溪",
+      "longitude": "119.9539",
+      "latitude": "31.0529",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    }
+  ],
+  "errCode": 0,
+  "requestId": "B5C43544-E217-4E92-8144-7BC1BEA2652B",
+  "errMsg": "success",
+  "apiLog": null
+}

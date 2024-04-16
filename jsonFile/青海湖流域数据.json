@@ -1,0 +1,308 @@
+{
+  "data": [
+    {
+      "province": "甘肃省",
+      "city": "兰州市",
+      "valley": "黄河流域",
+      "staname": "湟水桥",
+      "longitude": "103.1853",
+      "latitude": "36.843",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "甘肃省",
+      "city": "陇南市",
+      "valley": "长江流域",
+      "staname": "两水桥",
+      "longitude": "104.78",
+      "latitude": "33.4311",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "甘肃省",
+      "city": "定西市",
+      "valley": "黄河流域",
+      "staname": "洮园桥",
+      "longitude": "103.7859",
+      "latitude": "35.5864",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "甘肃省",
+      "city": null,
+      "valley": null,
+      "staname": "甘肃天水牛背",
+      "longitude": "106.72043616485",
+      "latitude": "34.375103791919",
+      "first_time": "2014-04-01 20:00:00",
+      "last_time": "2018-01-02 12:00:00"
+    },
+    {
+      "province": "甘肃省",
+      "city": "陇南市",
+      "valley": "长江流域",
+      "staname": "固水子村",
+      "longitude": "105.0806",
+      "latitude": "33.3272",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-12 12:00:00"
+    },
+    {
+      "province": "甘肃省",
+      "city": "嘉峪关市",
+      "valley": "西北诸河",
+      "staname": "火车站",
+      "longitude": "98.3538",
+      "latitude": "39.7259",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-01 12:00:00"
+    },
+    {
+      "province": "甘肃省",
+      "city": "甘南藏族自治州",
+      "valley": "黄河流域",
+      "staname": "地沟桥",
+      "longitude": "102.799273",
+      "latitude": "35.347539",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "甘肃省",
+      "city": "天水市",
+      "valley": "黄河流域",
+      "staname": "桦林",
+      "longitude": "104.8494",
+      "latitude": "34.7556",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "甘肃省",
+      "city": "兰州市",
+      "valley": "黄河流域",
+      "staname": "什川桥",
+      "longitude": "103.5952",
+      "latitude": "36.935",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "甘肃省",
+      "city": "武威市",
+      "valley": null,
+      "staname": "先明峡桥",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2021-03-05 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "甘肃省",
+      "city": "张掖市",
+      "valley": "西北诸河",
+      "staname": "六坝桥",
+      "longitude": "99.8302",
+      "latitude": "39.3881",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "甘肃省",
+      "city": "嘉峪关市",
+      "valley": "西北诸河",
+      "staname": "冰沟",
+      "longitude": "98.1468",
+      "latitude": "39.7787",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "甘肃省",
+      "city": "张掖市",
+      "valley": "西北诸河",
+      "staname": "莺落峡",
+      "longitude": "100.171",
+      "latitude": "38.8032",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "甘肃省",
+      "city": "武威市",
+      "valley": "西北诸河",
+      "staname": "扎子沟",
+      "longitude": "102.7539",
+      "latitude": "38.2169",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2020-12-01 04:00:00"
+    },
+    {
+      "province": "甘肃省",
+      "city": "兰州市",
+      "valley": "黄河流域",
+      "staname": "扶和桥",
+      "longitude": "103.331802",
+      "latitude": "36.083851",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "甘肃省",
+      "city": "酒泉市",
+      "valley": "西北诸河",
+      "staname": "解放村水库",
+      "longitude": "98.8591",
+      "latitude": "39.9415",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "甘肃省",
+      "city": "白银市",
+      "valley": "黄河流域",
+      "staname": "五佛寺",
+      "longitude": "104.2923",
+      "latitude": "37.1688",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "甘肃省",
+      "city": "天水市",
+      "valley": "黄河流域",
+      "staname": "葡萄园(牛背)",
+      "longitude": "106.7072",
+      "latitude": "34.3772",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "甘肃省",
+      "city": "金昌市",
+      "valley": "西北诸河",
+      "staname": "迎山坡",
+      "longitude": "102.0119",
+      "latitude": "38.3319",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "甘肃省",
+      "city": "武威市",
+      "valley": "西北诸河",
+      "staname": "黄羊水库",
+      "longitude": "102.742",
+      "latitude": "37.5637",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "甘肃省",
+      "city": "张掖市",
+      "valley": "西北诸河",
+      "staname": "皇城水库",
+      "longitude": "101.8542",
+      "latitude": "37.9192",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-10 20:00:00"
+    },
+    {
+      "province": "甘肃省",
+      "city": "甘南藏族自治州",
+      "valley": "黄河流域",
+      "staname": "玛曲",
+      "longitude": "102.0809",
+      "latitude": "33.9607",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "甘肃省",
+      "city": "武威市",
+      "valley": "西北诸河",
+      "staname": "红崖山水库",
+      "longitude": "102.9078",
+      "latitude": "38.3915",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "甘肃省",
+      "city": "兰州市",
+      "valley": "黄河流域",
+      "staname": "新城桥",
+      "longitude": "103.2923",
+      "latitude": "36.957",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "甘肃省",
+      "city": "平凉市",
+      "valley": "黄河流域",
+      "staname": "长庆桥",
+      "longitude": "107.7366",
+      "latitude": "35.3358",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "甘肃省",
+      "city": "白银市",
+      "valley": "黄河流域",
+      "staname": "青城桥",
+      "longitude": "104.216127",
+      "latitude": "36.353153",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "甘肃省",
+      "city": "白银市",
+      "valley": "黄河流域",
+      "staname": "靖远桥",
+      "longitude": "104.633238",
+      "latitude": "36.572978",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "甘肃省",
+      "city": "张掖市",
+      "valley": "西北诸河",
+      "staname": "高崖水文站",
+      "longitude": "100.3974",
+      "latitude": "39.137",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "甘肃省",
+      "city": "兰州市",
+      "valley": "黄河流域",
+      "staname": "甘肃兰州新城桥",
+      "longitude": "103.583888889",
+      "latitude": "36.1172222222",
+      "first_time": "2014-04-01 20:00:00",
+      "last_time": "2020-05-25 08:00:00"
+    },
+    {
+      "province": "甘肃省",
+      "city": "临夏回族自治州",
+      "valley": "黄河流域",
+      "staname": "折桥",
+      "longitude": "103.258964",
+      "latitude": "35.632055",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    }
+  ],
+  "errCode": 0,
+  "requestId": "80482F78-FBAB-4529-9339-02876ABAAF81",
+  "errMsg": "success",
+  "apiLog": null
+}

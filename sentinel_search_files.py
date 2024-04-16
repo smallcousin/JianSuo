@@ -117,23 +117,20 @@ def processFeature(start_time , geom):
         return None
     return Image
 
-searchDataList = [
-    ['万子湖', 28.853, 112.402]
-]
 
-def search():
+def search(dict):
     # 读取文件夹里的所有文件
     # pathName = "./excel2"
     # file_names = os.listdir(pathName)
     print("开始读取文件")
-    df = pd.read_excel("./excel/万子湖水质数据.xlsx", usecols=["发布时间"]).drop_duplicates()
+    df = pd.read_excel(f"./excel/{dict['staname']}水质数据.xlsx", usecols=["发布时间"]).drop_duplicates()
     date_list = df["发布时间"]
     print("读取文件成功")
     print("date_list的类型：",type(date_list))
     # print("CPHL_ADJUSTED (milligram/m3)" in columns)
     # Latitude,Longitude,Time
-    lon = 112.402
-    lat = 28.853
+    lon = dict['lon']
+    lat = dict['lat']
     centerGeometry = ee.Geometry.Point([lon, lat])
     for search_date in date_list:
         print("进入循环")
@@ -168,13 +165,21 @@ def search():
             id = product.get('PRODUCT_ID').getInfo()
 
             text = dateT + "," + str(lon) + "," + str(lat) + ","  +  id + "\n"
-            with open('./csvFile/万子湖水质数据检索得到的图像.csv','a', encoding = 'utf-8') as f:
+            with open(f"./csvFile/{dict['staname']}水质数据检索得到的图像.csv",'a', encoding = 'utf-8') as f:
                     f.write(text)
                     f.close()
 
 # 主函数  开始函数
 if __name__ == '__main__':
-    search()
+    keys = ['staname', 'lat', 'lon']
+    searchDataList = [
+        ['万子湖', 28.853, 112.402],
+        ['东半湖湖心', 31.522, 117.62],
+        ['滇池南', 24.7064, 102.6364]
+    ]
+    dicts = [dict(zip(keys, value)) for value in searchDataList]
+    for dict in dicts:
+        search(dict)
 # date = ee.Date('2021-05-01')
 # centerGeometry = ee.Geometry.Point(-114.2579, 38.9275)
 # print(processFeature(date , centerGeometry))

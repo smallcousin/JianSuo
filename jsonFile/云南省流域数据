@@ -1,0 +1,1348 @@
+{
+  "data": [
+    {
+      "province": "云南省",
+      "city": "红河哈尼族彝族自治州",
+      "valley": "西南诸河",
+      "staname": "河口县医院",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2023-03-02 04:00:00",
+      "last_time": "2023-03-03 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "红河哈尼族彝族自治州",
+      "valley": "西南诸河",
+      "staname": "河口县医院(河口)",
+      "longitude": "103.9586",
+      "latitude": "22.5094",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "普洱市",
+      "valley": "西南诸河",
+      "staname": "土卡河水文站",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2023-03-02 04:00:00",
+      "last_time": "2023-03-03 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "大观河入湖口",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2023-03-02 04:00:00",
+      "last_time": "2023-03-03 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "严家村桥",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2023-03-02 04:00:00",
+      "last_time": "2023-03-03 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "丽江市",
+      "valley": "长江流域",
+      "staname": "泸沽湖湖心",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2023-03-02 04:00:00",
+      "last_time": "2023-03-03 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "东大河滇池入湖口",
+      "longitude": "102.622501",
+      "latitude": "24.665666",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昭通市",
+      "valley": "长江流域",
+      "staname": "云贵桥（撤销）",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2021-08-04 16:00:00",
+      "last_time": "2021-08-04 16:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "玉溪市",
+      "valley": "西南诸河",
+      "staname": "坝洪村",
+      "longitude": "102.0088",
+      "latitude": "23.6022",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "大理白族自治州",
+      "valley": "西南诸河",
+      "staname": "四级坝",
+      "longitude": "100.0436",
+      "latitude": "25.5758",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-13 20:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "德宏傣族景颇族自治州",
+      "valley": "西南诸河",
+      "staname": "姐告大桥",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2021-07-09 16:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "回龙村",
+      "longitude": "102.774693",
+      "latitude": "24.922457",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "德宏傣族景颇族自治州",
+      "valley": "西南诸河",
+      "staname": "嘎中桥",
+      "longitude": "0",
+      "latitude": "0",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2023-05-05 12:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "新河村入湖口（金属筛片厂小桥）",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2023-03-02 04:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "大理白族自治州",
+      "valley": "西南诸河",
+      "staname": "小关邑",
+      "longitude": "100.226207",
+      "latitude": "25.622583",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2023-04-30 12:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "西双版纳傣族自治州",
+      "valley": "西南诸河",
+      "staname": "勐仑大桥",
+      "longitude": "101.2783",
+      "latitude": "21.9202",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "怒江傈僳族自治州",
+      "valley": "西南诸河",
+      "staname": "丙舍桥",
+      "longitude": "98.84",
+      "latitude": "25.87",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "西双版纳傣族自治州",
+      "valley": "西南诸河",
+      "staname": "勐捧岔河",
+      "longitude": "101.2919",
+      "latitude": "21.5244",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "大理白族自治州",
+      "valley": "西南诸河",
+      "staname": "云南大理洱海金河站",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2016-10-08 08:00:00",
+      "last_time": "2018-01-02 12:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "临沧市",
+      "valley": "西南诸河",
+      "staname": "孟定大桥",
+      "longitude": "98.95317",
+      "latitude": "23.5127",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "普洱市",
+      "valley": "西南诸河",
+      "staname": "孟拉桥",
+      "longitude": "99.2073",
+      "latitude": "22.1795",
+      "first_time": "2020-04-28 20:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "大渔乡土罗村入湖口",
+      "longitude": "102.791206",
+      "latitude": "24.828195",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "严家村桥(盘龙江)",
+      "longitude": "102.7194",
+      "latitude": "25.0016",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "玉溪市",
+      "valley": "珠江流域",
+      "staname": "孤山",
+      "longitude": "102.85129",
+      "latitude": "24.413255",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2023-05-26 00:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "红河哈尼族彝族自治州",
+      "valley": "西南诸河",
+      "staname": "中越桥",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "迪庆藏族自治州",
+      "valley": "西南诸河",
+      "staname": "中路村",
+      "longitude": "98.1477",
+      "latitude": "27.1841",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "普洱市",
+      "valley": "西南诸河",
+      "staname": "土卡河水文站(土卡河)",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2020-04-30 08:02:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "西双版纳傣族自治州",
+      "valley": "西南诸河",
+      "staname": "关累码头",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "曲靖市",
+      "valley": "珠江流域",
+      "staname": "厂房大桥",
+      "longitude": "104.471",
+      "latitude": "26.2393",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "江尾下闸",
+      "longitude": "102.795515",
+      "latitude": "24.886391",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "保山市",
+      "valley": "西南诸河",
+      "staname": "湾甸",
+      "longitude": "99.3499",
+      "latitude": "24.5168",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "滇池南",
+      "longitude": "102.6364",
+      "latitude": "24.7064",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "玉溪市",
+      "valley": "珠江流域",
+      "staname": "九甸大桥",
+      "longitude": "103.0997",
+      "latitude": "24.2006",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "灰湾中",
+      "longitude": "102.6903",
+      "latitude": "24.9136",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "丽江市",
+      "valley": "长江流域",
+      "staname": "金江桥",
+      "longitude": "100.5886",
+      "latitude": "26.1844",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "滇池南(老)",
+      "longitude": "102.3625",
+      "latitude": "24.465",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2022-07-11 16:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "保山市",
+      "valley": "西南诸河",
+      "staname": "云南保山红旗桥",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2016-10-08 08:00:00",
+      "last_time": "2018-01-02 13:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "大理白族自治州",
+      "valley": "西南诸河",
+      "staname": "云南大理小关邑",
+      "longitude": "100.231746779",
+      "latitude": "25.624186294",
+      "first_time": "2014-04-01 20:00:00",
+      "last_time": "2018-01-02 12:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "德宏傣族景颇族自治州",
+      "valley": "西南诸河",
+      "staname": "云南德宏嘎中桥",
+      "longitude": "98.10848",
+      "latitude": "24.15858",
+      "first_time": "2014-04-01 08:00:00",
+      "last_time": "2018-01-02 12:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "云南昆明观音山",
+      "longitude": "102.676944444",
+      "latitude": "24.8769444444",
+      "first_time": "2014-04-01 20:00:00",
+      "last_time": "2019-03-15 08:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "玉溪市",
+      "valley": "珠江流域",
+      "staname": "云南玉溪孤山",
+      "longitude": "102.843092",
+      "latitude": "24.414452",
+      "first_time": "2014-04-01 20:00:00",
+      "last_time": "2018-01-02 12:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "西南诸河",
+      "staname": "云南红河州河口",
+      "longitude": "103.956722222",
+      "latitude": "22.5067222222",
+      "first_time": "2014-04-01 20:00:00",
+      "last_time": "2020-05-25 08:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "西双版纳傣族自治州",
+      "valley": "西南诸河",
+      "staname": "云南西双版纳橄榄坝",
+      "longitude": "100.916666667",
+      "latitude": "21.85",
+      "first_time": "2014-04-02 00:00:00",
+      "last_time": "2019-03-15 08:01:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昭通市",
+      "valley": null,
+      "staname": "云贵桥",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2021-04-24 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "曲靖市",
+      "valley": null,
+      "staname": "牛栏江大桥",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2021-04-24 04:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "曲靖市",
+      "valley": "长江流域",
+      "staname": "牛栏江大桥（撤销）",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2021-08-01 16:00:00",
+      "last_time": "2021-08-01 16:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "大理白族自治州",
+      "valley": "西南诸河",
+      "staname": "洱海湖心",
+      "longitude": "100.1866",
+      "latitude": "22.8261",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "大理白族自治州",
+      "valley": "西南诸河",
+      "staname": "交汇口",
+      "longitude": "99.383",
+      "latitude": "25.6377",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-13 16:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "丽江市",
+      "valley": "长江流域",
+      "staname": "泸沽湖湖心(泸沽湖)",
+      "longitude": "100.77563",
+      "latitude": "27.669182",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "曲靖市",
+      "valley": "长江流域",
+      "staname": "以礼河水文站",
+      "longitude": "103.2481",
+      "latitude": "26.4408",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "普洱市",
+      "valley": "西南诸河",
+      "staname": "储木场",
+      "longitude": "100.534",
+      "latitude": "23.344",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-13 00:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "大观河入湖口(航运公司)(篆塘河泵站)",
+      "longitude": "102.6777",
+      "latitude": "25.033",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "长江流域",
+      "staname": "牛栏江河口(象鼻山吊桥)",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2023-03-02 04:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "文山壮族苗族自治州",
+      "valley": "西南诸河",
+      "staname": "南利大桥",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "王大桥",
+      "longitude": "102.7454",
+      "latitude": "25.0449",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "临沧市",
+      "valley": "西南诸河",
+      "staname": "小黑江检查站",
+      "longitude": "99.7162",
+      "latitude": "23.3571",
+      "first_time": "2020-04-29 16:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "大理白族自治州",
+      "valley": "西南诸河",
+      "staname": "南涧小湾电站(澜沧江)",
+      "longitude": "100.096517",
+      "latitude": "24.709643",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2023-06-26 08:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "珠江流域",
+      "staname": "禄丰村",
+      "longitude": "103.1103",
+      "latitude": "24.5602",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "曲靖市",
+      "valley": "珠江流域",
+      "staname": "天生桥",
+      "longitude": "103.481033",
+      "latitude": "24.9398",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昭通市",
+      "valley": "长江流域",
+      "staname": "头屯河",
+      "longitude": "104.8918",
+      "latitude": "27.3081",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "宝丰村入湖口",
+      "longitude": "102.768802",
+      "latitude": "24.967017",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "长江流域",
+      "staname": "崔家庄",
+      "longitude": "103.2215",
+      "latitude": "25.3653",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "船房五社桥头(一检站)",
+      "longitude": "102.6529",
+      "latitude": "24.992",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "曲靖市",
+      "valley": "珠江流域",
+      "staname": "花山水库出水口",
+      "longitude": "103.8991",
+      "latitude": "25.7647",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "西双版纳傣族自治州",
+      "valley": "西南诸河",
+      "staname": "打洛江大桥",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "玉溪市",
+      "valley": "珠江流域",
+      "staname": "抚仙湖心",
+      "longitude": "102.8931",
+      "latitude": "24.5265",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昭通市",
+      "valley": "长江流域",
+      "staname": "横江桥",
+      "longitude": "104.3449",
+      "latitude": "28.5598",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "茨巷河入湖口(牛恋乡)",
+      "longitude": "102.714646",
+      "latitude": "24.684455",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-12 12:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "草海中心",
+      "longitude": "102.6428",
+      "latitude": "24.9917",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "普洱市",
+      "valley": "西南诸河",
+      "staname": "莲花乡",
+      "longitude": "100.9473",
+      "latitude": "22.8661",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "大理白族自治州",
+      "valley": "西南诸河",
+      "staname": "江尾",
+      "longitude": "100.1257",
+      "latitude": "25.9598",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昭通市",
+      "valley": "长江流域",
+      "staname": "江底桥",
+      "longitude": "103.6307",
+      "latitude": "27.022",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "红河哈尼族彝族自治州",
+      "valley": "西南诸河",
+      "staname": "蔓耗桥",
+      "longitude": "103.350147",
+      "latitude": "23.025215",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "红河哈尼族彝族自治州",
+      "valley": "西南诸河",
+      "staname": "蚂蟥堡桥",
+      "longitude": "103.9745",
+      "latitude": "22.5746",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "断桥",
+      "longitude": "102.6596",
+      "latitude": "25.015",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "丽江市",
+      "valley": "长江流域",
+      "staname": "新华",
+      "longitude": "99.9583",
+      "latitude": "26.933",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "西双版纳傣族自治州",
+      "valley": "西南诸河",
+      "staname": "橄榄坝",
+      "longitude": "0",
+      "latitude": "0",
+      "first_time": "2020-04-30 08:01:00",
+      "last_time": "2022-03-21 08:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "楚雄彝族自治州",
+      "valley": "西南诸河",
+      "staname": "水文站",
+      "longitude": "102.0547",
+      "latitude": "25.0851",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "西苑隧道",
+      "longitude": "102.3814",
+      "latitude": "24.5813",
+      "first_time": "2020-04-30 08:02:00",
+      "last_time": "2022-03-24 20:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "楚雄彝族自治州",
+      "valley": "长江流域",
+      "staname": "西观桥",
+      "longitude": "101.6369",
+      "latitude": "25.0936",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "红河哈尼族彝族自治州",
+      "valley": "珠江流域",
+      "staname": "江边桥",
+      "longitude": "103.583",
+      "latitude": "24.0486",
+      "first_time": "2020-05-30 17:37:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "观音山西",
+      "longitude": "102.6756",
+      "latitude": "24.8372",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "长江流域",
+      "staname": "河口(象鼻山吊桥)",
+      "longitude": "103.4743",
+      "latitude": "25.6485",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2023-03-02 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "文山壮族苗族自治州",
+      "valley": "珠江流域",
+      "staname": "谷拉河大桥",
+      "longitude": "106.1491",
+      "latitude": "23.9101",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "玉溪市",
+      "valley": "珠江流域",
+      "staname": "杞麓湖心",
+      "longitude": "102.7742",
+      "latitude": "24.1669",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "保山市",
+      "valley": "西南诸河",
+      "staname": "永保桥",
+      "longitude": "99.3395",
+      "latitude": "25.4313",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "玉溪市",
+      "valley": "珠江流域",
+      "staname": "永昌桥",
+      "longitude": "102.4449",
+      "latitude": "24.158",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "德宏傣族景颇族自治州",
+      "valley": "西南诸河",
+      "staname": "汇流电站",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "珠江流域",
+      "staname": "阳宗海中",
+      "longitude": "103.0039",
+      "latitude": "24.9161",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "海口西",
+      "longitude": "102.63",
+      "latitude": "24.7733",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昭通市",
+      "valley": "长江流域",
+      "staname": "黄沙坡（撤销）",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2021-08-04 12:00:00",
+      "last_time": "2021-08-04 12:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "玉溪市",
+      "valley": "珠江流域",
+      "staname": "盘溪大桥",
+      "longitude": "103.1066",
+      "latitude": "24.2226",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "白鱼口",
+      "longitude": "102.67",
+      "latitude": "24.81",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "丽江市",
+      "valley": "长江流域",
+      "staname": "程海湖中",
+      "longitude": "100.642254",
+      "latitude": "26.551363",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "玉溪市",
+      "valley": "西南诸河",
+      "staname": "绿汁江大桥",
+      "longitude": "101.9596",
+      "latitude": "24.6897",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "罗家营(老)",
+      "longitude": "102.75555",
+      "latitude": "24.903541",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2022-03-16 12:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "新河村入湖口(金属筛片厂小桥)",
+      "longitude": "102.668095",
+      "latitude": "25.011076",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2023-03-02 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "曲靖市",
+      "valley": "珠江流域",
+      "staname": "设里桥",
+      "longitude": "104.340973",
+      "latitude": "24.552028",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-08 08:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "德宏傣族景颇族自治州",
+      "valley": "西南诸河",
+      "staname": "迭撒大桥",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "长江流域",
+      "staname": "通仙桥",
+      "longitude": "102.4727",
+      "latitude": "24.8816",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "红河哈尼族彝族自治州",
+      "valley": "西南诸河",
+      "staname": "那发出境",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 00:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "大理白族自治州",
+      "valley": "西南诸河",
+      "staname": "金河",
+      "longitude": "100.158296",
+      "latitude": "25.859587",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2022-05-13 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "德宏傣族景颇族自治州",
+      "valley": "西南诸河",
+      "staname": "风平",
+      "longitude": "98.52",
+      "latitude": "24.41",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "西双版纳傣族自治州",
+      "valley": "西南诸河",
+      "staname": "风情园大桥",
+      "longitude": "100.745",
+      "latitude": "22.0007",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "玉溪市",
+      "valley": "珠江流域",
+      "staname": "星云湖心",
+      "longitude": "102.7827",
+      "latitude": "24.3439",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-02 08:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "晋城小寨",
+      "longitude": "102.75329",
+      "latitude": "24.676965",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2020-05-09 17:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "长江流域",
+      "staname": "普渡河桥",
+      "longitude": "102.646",
+      "latitude": "25.6495",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "临沧市",
+      "valley": "西南诸河",
+      "staname": "景临桥",
+      "longitude": "100.1731",
+      "latitude": "23.5661",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昭通市",
+      "valley": null,
+      "staname": "黄沙坡",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2021-04-24 04:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "临沧市",
+      "valley": "西南诸河",
+      "staname": "黑箐",
+      "longitude": "100.2178",
+      "latitude": "24.4649",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-04 20:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "红河哈尼族彝族自治州",
+      "valley": "西南诸河",
+      "staname": "小河底河",
+      "longitude": "102.3399",
+      "latitude": "23.4695",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "西园隧道",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2022-03-25 04:00:00",
+      "last_time": "2023-04-10 08:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "观音山",
+      "longitude": "102.3957",
+      "latitude": "24.512",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2021-07-04 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "观音山东",
+      "longitude": "102.7611",
+      "latitude": "24.8372",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "观音山中",
+      "longitude": "102.7094",
+      "latitude": "24.8372",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "普洱市",
+      "valley": "西南诸河",
+      "staname": "芒东桥",
+      "longitude": "99.8921",
+      "latitude": "22.5093",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "迪庆藏族自治州",
+      "valley": "长江流域",
+      "staname": "贺龙桥",
+      "longitude": "99.3661",
+      "latitude": "28.1837",
+      "first_time": "2020-08-23 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "罗家营",
+      "longitude": "102.7492",
+      "latitude": "24.89",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "红河哈尼族彝族自治州",
+      "valley": "珠江流域",
+      "staname": "长虹桥",
+      "longitude": "103.2766",
+      "latitude": "23.8152",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "保山市",
+      "valley": "西南诸河",
+      "staname": "龙江桥",
+      "longitude": "98.6767",
+      "latitude": "24.8968",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "文山壮族苗族自治州",
+      "valley": "西南诸河",
+      "staname": "天保农场",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "云南昆明罗家营",
+      "longitude": "102.780936256",
+      "latitude": "25.3110841597",
+      "first_time": "2014-04-01 20:00:00",
+      "last_time": "2018-01-02 12:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昭通市",
+      "valley": null,
+      "staname": "邓家河",
+      "longitude": null,
+      "latitude": null,
+      "first_time": "2021-04-24 04:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "云南昆明西苑隧道",
+      "longitude": "102.637338889",
+      "latitude": "24.9706722222",
+      "first_time": "2014-04-01 20:00:00",
+      "last_time": "2019-03-15 04:02:00"
+    },
+    {
+      "province": "云南省",
+      "city": "临沧市",
+      "valley": "西南诸河",
+      "staname": "嘎旧",
+      "longitude": "100.4965",
+      "latitude": "24.5409",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-09 16:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "长江流域",
+      "staname": "富民大桥",
+      "longitude": "102.4947",
+      "latitude": "25.2199",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "昆明市",
+      "valley": "滇池流域",
+      "staname": "云南昆明滇池南岸",
+      "longitude": "102.66629914",
+      "latitude": "24.6669341829",
+      "first_time": "2014-04-01 20:00:00",
+      "last_time": "2018-01-02 12:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "红河哈尼族彝族自治州",
+      "valley": "西南诸河",
+      "staname": "异龙湖中",
+      "longitude": "102.566",
+      "latitude": "23.6746",
+      "first_time": "2020-04-30 12:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "大理白族自治州",
+      "valley": "西南诸河",
+      "staname": "徐村桥",
+      "longitude": "99.9652",
+      "latitude": "25.6619",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "普洱市",
+      "valley": "西南诸河",
+      "staname": "思茅港",
+      "longitude": "100.5794",
+      "latitude": "22.4999",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "怒江傈僳族自治州",
+      "valley": "西南诸河",
+      "staname": "拉甲木底桥",
+      "longitude": "98.8695",
+      "latitude": "26.8715",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "保山市",
+      "valley": "西南诸河",
+      "staname": "红旗桥",
+      "longitude": "98.9711",
+      "latitude": "24.7347",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "丽江市",
+      "valley": "长江流域",
+      "staname": "龙兴村",
+      "longitude": "100.2453",
+      "latitude": "26.6947",
+      "first_time": "2020-04-30 08:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    },
+    {
+      "province": "云南省",
+      "city": "红河哈尼族彝族自治州",
+      "valley": "西南诸河",
+      "staname": "龙脖渡口",
+      "longitude": "103.6421",
+      "latitude": "22.7976",
+      "first_time": "2020-04-29 04:00:00",
+      "last_time": "2024-04-14 04:00:00"
+    }
+  ],
+  "errCode": 0,
+  "requestId": "0AA579A8-74BD-41A4-B7CC-117A97057F09",
+  "errMsg": "success",
+  "apiLog": null
+}
