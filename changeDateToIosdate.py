@@ -2,7 +2,7 @@ from datetime import datetime
 # Longitude,Latitude
 import pandas
 # 23.730313, 114.640567
-fileName = './csvFile/新丰江水质数据检索得到的图像.csv'
+fileName = 'csvFile/新丰江水库水质数据检索得到的图像.csv'
 
 df = pandas.read_csv(fileName)
 # 把日期转为国际日期
